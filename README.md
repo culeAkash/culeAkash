@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving backend services using microservice architecture.<br><br>👯 I’m looking to collaborate on<br>Fullstack Projects<br><br>🤝 I’m looking for help with:<br>Artificial Intelligence and Blockchain<br><br>🌱 I’m currently learning:<br>System Design<br><br>💬 Ask me about<br>Java, Javascript, React, Redux, Spring Boot, Microservices, and any general software development questions.<br><br>⚡ Fun fact:<br>I am working on my youtube channel
+🔭 I’m currently working on:<br>Improving backend services using microservice architecture.<br><br>👯 I’m looking to collaborate on<br>Fullstack Projects<br><br>🤝 I’m looking for help with:<br>Spring Boot and Microservices Architecture<br><br>🌱 I’m currently learning:<br>System Design and AWS<br><br>💬 Ask me about<br>Java, Javascript, React, Redux, Spring Boot, Microservices, and any general software development questions.<br>
 
 
 ## 🌐 Socials:
